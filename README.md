@@ -30,7 +30,7 @@ Many school challenges — like bullying, absenteeism, poor hygiene, or lack of 
 ---
 
 ## 📁 Folder Structure
-
+```
 ai-micro-solutions-platform/
 ├── uploads/
 │ └── sample.mp4 # Demo video(s)
@@ -41,7 +41,7 @@ ai-micro-solutions-platform/
 ├── app.py # Streamlit or Flask app
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## 🚀 Getting Started
